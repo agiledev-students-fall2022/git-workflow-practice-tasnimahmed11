@@ -1,2 +1,9 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+# Git Practice Assignment
+## Tasnim Ahmed
+
+## Is Software Development Saturated? [(link)](https://www.codingdojo.com/blog/is-software-development-oversaturated#:~:text=There%20are%20currently%20over%2017%2C000,more%20people%20qualify%20for%20roles.)
+
+
+a paragraph or two about what you find interesting about that article
+
+
